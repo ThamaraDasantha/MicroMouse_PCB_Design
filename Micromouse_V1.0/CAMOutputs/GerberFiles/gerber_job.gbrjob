@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-07-23T15:15:33Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "micromouse"
+        },
+        "Owner": "Thamara Banneheka <en21250606@my.sliit.lk>",
+        "Size": {
+            "X": 70.047,
+            "Y": 99.971
+        }
+    }
+}
